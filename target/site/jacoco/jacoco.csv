@@ -1,5 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-DeepSeek AI Demo,org.example.controller,DeepSeekController,0,13,0,0,0,3,0,2,0,2
-DeepSeek AI Demo,org.example.controller,RestTemplateConfig,0,39,0,0,0,11,0,6,0,6
-DeepSeek AI Demo,org.example.controller,DeepSeekService,62,128,5,7,11,23,6,3,1,2
-DeepSeek AI Demo,org.example,Main,8,0,0,0,3,0,2,0,2,0
